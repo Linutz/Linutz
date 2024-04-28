@@ -5,4 +5,4 @@
 
 ## Learning 
 
-[![KSRT](https://github-readme-stats.vercel.app/api/top-langs/?username=KSRT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![KSRT](https://github-readme-stats.vercel.app/api/top-langs/?username=KSRT&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
