@@ -1,6 +1,6 @@
 ## About me
 - 🤔 Exploring new languages
-- 🎓 Studying programming
+- 🎓 Studying 
 - 🐱 I love cats 
 
 ## Learning 
