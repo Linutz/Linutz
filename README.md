@@ -1,7 +1,8 @@
 ## About me
 - 🤔 Exploring new languages
 - 🎓 Studying 
-- 🐱 I love cats 
+- 🐱 I love cats
+- Español de España weon
 
 ## Learning 
 
